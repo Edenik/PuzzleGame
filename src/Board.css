@@ -1,0 +1,8 @@
+.Board-piece {
+  width: 100px !important;
+}
+
+.Board {
+  display: flex;
+  justify-content: center;
+}
