@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Puzzle Game
+
+## Try to solve the puzzle!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
