@@ -4,6 +4,10 @@
 
 ![screenshot](https://github.com/Edenik/PuzzleGame/blob/main/media/screenshot.png?raw=true)
 
+## Live Demo -
+
+[Edenik.com/PuzzleGame](https://Edenik.com/PuzzleGame)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
