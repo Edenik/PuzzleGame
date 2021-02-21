@@ -2,6 +2,8 @@
 
 ## Try to solve the puzzle!!
 
+![screenshot](https://github.com/Edenik/PuzzleGame/blob/main/media/screenshot.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
